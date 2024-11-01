@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wall -pedantic -g -O2 -fsanitize=address -D _GLIBCXX_DEBUG -g CMakeFiles/cvic03.dir/test.cpp.o -o cvic03 
